@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;ar.edu.unlam.pb2.dominio&apos; to &apos;PrimeraClaseTDD/src&apos;&#x0D;&#x0A;- Original project: &apos;PrimeraClaseTDD&apos;&#x0D;&#x0A;- Destination element: &apos;PrimeraClaseTDD/src&apos;&#x0D;&#x0A;- Original element: &apos;PrimeraClaseTDD/test/ar.edu.unlam.pb2.dominio&apos;" description="Copy package" destination="/src" element1="/test&lt;ar.edu.unlam.pb2.dominio" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1725052218167" version="1.0"/>
+</session>

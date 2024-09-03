@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Redenominar el método «ar.edu.unlam.pb1.dominio.Tienda.ordenarVendiblesPorPrecioPrescendente(...)» como «ordenarVendiblesPorPrecioAscendente»&#x0D;&#x0A;- Proyecto original: «PBI2023Q2C01TM-Parcial2-ApellidosNombres»&#x0D;&#x0A;- Elemento original: «ar.edu.unlam.pb1.dominio.Tienda.ordenarVendiblesPorPrecioPrescendente(...)»&#x0D;&#x0A;- Elemento redenominado: «ar.edu.unlam.pb1.dominio.Tienda.ordenarVendiblesPorPrecioAscendente(...)»&#x0D;&#x0A;- Actualizar referencias al elemento refactorizado" delegate="false" deprecate="false" description="Redenominar método «ordenarVendiblesPorPrecioPrescendente»" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;ar.edu.unlam.pb1.dominio{Tienda.java[Tienda~ordenarVendiblesPorPrecioPrescendente~\[QVendible;" name="ordenarVendiblesPorPrecioAscendente" references="true" stamp="1718484641343" version="1.0"/>
+</session>

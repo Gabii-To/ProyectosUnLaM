@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.ref.Cleaner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.security.DrbgParameters.NextBytes"/>
+    <fullyQualifiedTypeName name="casita.Enum"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.FabricaDePastas"/>
+    <fullyQualifiedTypeName name="dominio.Sospechas"/>
+    <fullyQualifiedTypeName name="dominio.Sospecha"/>
+    <fullyQualifiedTypeName name="java.awt.Menu"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.FabricaDeCopasDelMundo"/>
+    <fullyQualifiedTypeName name="enums.Menu_Principal"/>
+    <fullyQualifiedTypeName name="enums.SubMenu"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="enums.Sospechosos"/>
+    <fullyQualifiedTypeName name="enums.Armas"/>
+    <fullyQualifiedTypeName name="enums.Habitaciones"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.Pasta"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.enums.TipoDePasta"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.enums.Materiales"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.CopaDelMundo"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.Pintureria"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.interfaz.enums.MenuPrincipal"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.enums.TipoDePintura"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.LataDePintura"/>
+    <fullyQualifiedTypeName name="ar.edu.unlam.pb1.dominio.Paciente"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ar.edu.unlam.pb1.convertidor&apos; to &apos;ar.edu.unlam.pb1.notas&apos;&#x0D;&#x0A;- Original project: &apos;PB1NotasdeClase&apos;&#x0D;&#x0A;- Original element: &apos;PB1NotasdeClase/src/ar.edu.unlam.pb1.convertidor&apos;&#x0D;&#x0A;- Renamed element: &apos;PB1NotasdeClase/src/ar.edu.unlam.pb1.notas&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ar.edu.unlam.pb1.convertidor&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ar.edu.unlam.pb1.convertidor" name="ar.edu.unlam.pb1.notas" qualified="false" references="true" stamp="1717025827789" textual="false" version="1.0"/>
+</session>

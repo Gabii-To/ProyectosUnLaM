@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;tipoDePintura&apos; in &apos;ar.edu.unlam.pb1.interfaz.GestionDePintureria.agregarLataDePintura(...)&apos; to &apos;tipoDePinturaComoTexto&apos;&#x0D;&#x0A;- Original project: &apos;PB12023Q2C01TM-Recuperatorio-ApellidosNombres&apos;&#x0D;&#x0A;- Original element: &apos;ar.edu.unlam.pb1.interfaz.GestionDePintureria.agregarLataDePintura(Pintureria).tipoDePintura&apos;&#x0D;&#x0A;- Renamed element: &apos;tipoDePintura&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;tipoDePintura&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ar.edu.unlam.pb1.interfaz{GestionDePintureria.java[GestionDePintureria~agregarLataDePintura~QPintureria;@tipoDePintura!3020!3040!3027!3039!QString;!0!false" name="tipoDePinturaComoTexto" references="true" stamp="1720141876438" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+package ar.edu.unlam.pb1.enteros;
+
+public class PruebaConEnteros {
+	public static void main(String[]args) {
+		int entero=2147483648;
+		System.out.println(entero);
+	}
+}

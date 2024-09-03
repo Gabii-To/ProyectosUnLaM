@@ -1,0 +1,19 @@
+package ar.edu.unlam.pb1.interfaz;
+
+import java.util.Scanner;
+
+public class CapicuaTest {
+	public static void main(String[]args) {
+		Scanner teclado= new Scanner(System.in);
+		System.out.println("Ingrese un numero: ");
+		String numero = teclado.toString();
+		char cadena[] = numero.toCharArray();
+		int cadenaInt[] = new int [cadena.length];
+		
+		for(int i=0;i<6;i++) {
+			cadenaInt[i] = Character.getNumericValue(cadena[i]);
+		}
+		teclado.close();
+		
+		}
+}
